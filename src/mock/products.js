@@ -90,5 +90,15 @@ export const defaultProducts = [
     category: 'Laptops',
     rating: 4.5,
     stock: 2
+  },
+    {
+    id: '10',
+    name: 'ASUS ROG STRIX',
+    image: 'https://m.media-amazon.com/images/I/81GrCeuCzxL.jpg',
+    price: 990.00,
+    description: 'ROG Strix Laptops. Portátiles destacados diseñados para brindar un rendimiento de clase mundial para jugadores y creadores competitivos.',
+    category: 'Laptops',
+    rating: 4.5,
+    stock: 5
   }
 ];
