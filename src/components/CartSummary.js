@@ -1,5 +1,4 @@
 //Pasarela de pago
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { formatCurrency } from '../utils/helpers';
@@ -19,7 +18,7 @@ const CartSummary = ({ subtotal, taxes, total, onCheckout }) => {
           <span className="font-semibold">{formatCurrency(subtotal)}</span>
         </div>
         <div className="flex justify-between">
-          <span>Impuestos (13%):</span>
+          <span>Impuestos (15%):</span>
           <span className="font-semibold">{formatCurrency(taxes)}</span>
         </div>
         <div className="flex justify-between text-xl font-bold text-gray-900 pt-2 border-t mt-2">
