@@ -24,7 +24,7 @@ export const defaultProducts = [
   {
     id: '3',
     name: 'Teclado Mecánico RGB',
-    image: 'https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80',
+    image: 'https://imagenes.elpais.com/resizer/v2/MM3NYXMCIVGWVHHFYKJGZXB65A.png?auth=7840a695ee22a330c42a8015344f5668ea5a4f8abf296883202b1aa070c68ae6&width=414',
     price: 75.00,
     description: 'Experimenta una escritura precisa y un espectáculo de luces con este teclado personalizable.',
     category: 'Accesorios PC',
@@ -54,7 +54,7 @@ export const defaultProducts = [
   {
     id: '6',
     name: 'Webcam Full HD',
-    image: 'https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80',
+    image: 'https://www.megatech.com.np/wp-content/uploads/2022/08/WEB-CAM-600x600.jpg',
     price: 35.00,
     description: 'Perfecta para videollamadas y streaming con calidad de imagen nítida.',
     category: 'Accesorios PC',
